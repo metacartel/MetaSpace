@@ -1,6 +1,8 @@
 # MetaSpace
 Providing remote classes and tools for Web3 contributors to bring balance and peace into their communities. 
 
+Join: https://t.me/joinchat/HcTaOxhlCU7I6Rohz5nT3g
+
 # Why This Matters?
 
 When we are stressed our sympathetic nervous is activated sending us into fight or flight mode. In this mode, we are worried about resources, scarcity mentality takes over, we think about where and how to get food, our health and our family’s health. We no longer work collectively to find solutions. All we think about are our survival needs, not how society can expand and grow. We are unable to be grounded, centered, creative and function from a loving, compassionate place. Our work is put to a halt, and society begins to digress.
@@ -14,6 +16,9 @@ For example, a meditation on empathy and compassion would help connect Web3 comm
 
 
 A session could include 30-45 minutes of movement, 15-30 minutes and breathing and meditation, and 15-30 minutes of discussion on a specific topic. These would take place on a weekly basis, live streamed, recorded to youtube for the accessibility to other community members. The topics would be open for suggestion by making an issue in the GitHub repo, weekly topics would be outlined and drafted prior to the launch of each weekly session. 
+
+## How to join:
+https://t.me/joinchat/HcTaOxhlCU7I6Rohz5nT3g
 
 ## Getting Started 
 
